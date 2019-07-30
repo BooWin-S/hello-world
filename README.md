@@ -1,7 +1,7 @@
 [TOA]
 # hello-world
 ## nothing here
-```
+```python
 def helloworld:
   print("hello?")
 ```
