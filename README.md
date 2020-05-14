@@ -1,4 +1,3 @@
-[TOC]
 # hello-world
 ## nothing here
 ```c++
