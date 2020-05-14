@@ -1,8 +1,7 @@
 [TOC]
 # hello-world
 ## nothing here
-```python
-def helloworld:
-  print("hello?")
+```c++
+string s{"hello, world"};
 ```
 **yah?**
